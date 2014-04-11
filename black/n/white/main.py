@@ -5,9 +5,6 @@ from black.n.white import DirectoryStructure
 
 __author__ = 'gautam'
 
-#TODO Discover Markdown files in _posts_ directory
-#TODO Convert Markdown files to html
-
 class BlackNWhite:
     def __init__(self, base_directory):
         logging.info("Base Directory {}".format(base_directory))

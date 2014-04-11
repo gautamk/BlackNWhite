@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: blacknwhite
+Version: 0.0.1
+Author: gautam
+Author-email: gautam nitheesh at gmail com
+Home-page: https://github.com/gautamk/BlackNWhite
+Download-url: UNKNOWN
+Summary: Simple opinionated Static Site generator
+License: https://github.com/gautamk/BlackNWhite/blob/master/LICENSE.md
+Description: UNKNOWN
+Platform: *Nix
+Classifier: Development Status :: 2 - Pre-Alpha
