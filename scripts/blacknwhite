@@ -24,4 +24,4 @@ if __name__ == "__main__":
     parser.add_argument("base_directory", help="Directory where the blog posts reside",action = readable_dir)
     parsed_args = parser.parse_args()
     black_n_white = BlackNWhite(base_directory=os.path.abspath(parsed_args.base_directory))
-    black_n_white.process_posts()
+    black_n_white.render_blog()
